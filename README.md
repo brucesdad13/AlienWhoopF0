@@ -13,7 +13,7 @@ AlienWhoop F0 (code name ZER0) flight controller for Tiny Whoop™, Blade Induct
 * Choice of external serial receivers. Officially supporting most SBUS, DSMX, DSM2 and Bayang SPI receivers.
 
 ## DIY Flight Controller :alien:
-If you fancy doing it yourself (DIY), and have the right equipment and patience, building an AlienWhoop ZER0 from scratch can be tremendously satisfying--though not for the faint of heart. After doing your homework the first step is to place an order for blank PCBs from [OSH Park](https://oshpark.com/shared_projects/VT2tjRq6) ... Shared Project link coming soon:
+If you fancy doing it yourself (DIY), and have the right equipment and patience, building an AlienWhoop ZER0 from scratch can be tremendously satisfying--though not for the faint of heart. After doing your homework the first step is to place an order for blank PCBs from [OSH Park](https://oshpark.com/shared_projects/VT2tjRq6):
 * We recommend ordering the 2oz copper 0.8mm thickness PCB
   * *It takes about three weeks to make the thin boards which allows plenty of time to order components from the bill of materials in the resources folder.*
 
