@@ -1,6 +1,6 @@
 # AlienWhoopF0
 
-[![IMAGE AlienWhoop ZER0](https://644db4de3505c40a0444-327723bce298e3ff5813fb42baeefbaa.ssl.cf1.rackcdn.com/ec745aaaca050a925ba0c3ec65d70e1c.png)]
+![IMAGE AlienWhoop ZER0](https://644db4de3505c40a0444-327723bce298e3ff5813fb42baeefbaa.ssl.cf1.rackcdn.com/ec745aaaca050a925ba0c3ec65d70e1c.png)
 
 # AlienWhoopF0 Features :alien:
 AlienWhoop F0 (code name ZER0) flight controller for Tiny Whoop™, Blade Inductrix™, Eachine™, BetaFPV™, and other micro brushed quadcopter frames. Best in class flight controller running NotFastEnuf Silverware--surface mount soldering required.
