@@ -41,6 +41,6 @@ Archival copy of Lance's AlienFlight F3 Eagle CAD Projects
 * http://github.com/brucesdad13/AlienFlightArchive
 
 NotFastEnuf's fork of Silverware flight controller firmware:
-* http://github.com/NotFastEnuf/E011-BWHOOP-H8-Silverware
+* https://github.com/NotFastEnuf/NFE_Silverware
 
 ~ Please note: **AlienWhoop** is not affiliated with nor endorsed by AlienFlight or forks of Lance's work such as AlienFlight NG. The use of Alien in the name and the alien head vector graphic used on the board silkscreen are nods to the lineage of this remix and to the work of Lance and others who created the conditions for this project to arise. Likewise, AlienWhoop is not affiliated with nor endorsed by Tiny Whoop. The Whoop in the name comes from Jesse Perkin's fantastic Tiny Whoop ("a small first-person-view aircraft that truly allows you to feel the gift of flight and the feeling of being tiny" [tinywhoop.com]) and is simply a nod to his efforts and the TW community worldwide.
