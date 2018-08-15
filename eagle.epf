@@ -1,0 +1,22 @@
+[Eagle]
+Version="09 00 00"
+Platform="Windows"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="AlienWhoop.lbr"
+UsedLibrary="Perfect_0402.lbr"
+UsedLibrary="Sparkfun.lbr"
+UsedLibrary="alienflight.lbr"
+UsedLibrary="holes.lbr"
+UsedLibrary="micro-stm_v2.lbr"
+
+[Win_1]
+Type="Control Panel"
+Number=0
+
+[Desktop]
+Screen="1920 1080"
+Window="Win_1"
